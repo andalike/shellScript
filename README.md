@@ -1,4 +1,4 @@
-# 110 Linux Commands Linux SysAdmins use with explanation. 
+# 100+ Linux Commands Linux SysAdmins use with explanation. 
 
 
 1. cut - allows you to cut out sections of a specified file or piped data and print the result to standard output. 
